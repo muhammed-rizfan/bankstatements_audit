@@ -1,0 +1,9 @@
+langchain_nvidia_ai_endpoints
+python-dotenv
+tabula-py
+PyPDF2
+Pandas
+jpype1
+openpyxl
+pdfplumber
+xlsxwriter
